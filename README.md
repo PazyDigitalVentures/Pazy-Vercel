@@ -7,3 +7,6 @@
 4-conda activate pazy
 5-pdm import requirements.txt 
 6-pip install -r requirements.txt  
+
+
+
